@@ -8,17 +8,17 @@ marks = " preetam"; // preetam
 marks = true; // true
 console.log(marks);
 
-
+undefined
 // let marks;
 // console.log(marks);
 // output - undefined
 
 
-//null
+null
 // let marks = null;
 //console.log(marks); --> NULL
 
-
+BigInt
 //BigInt > (2^(53) - 1) to store bigger values than this bigint is used.
 
 
@@ -39,8 +39,8 @@ console.log(typeof(mark4)); // undefined
 
 
 // symbol --> It represents a unique and immutable value.
-
-const s1 = Symbol("id"); 
+//example:-
+//const s1 = Symbol("pree"); 
 
 // how to use :-
 
