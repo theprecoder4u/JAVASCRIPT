@@ -46,3 +46,41 @@ console.log(ans); // true, like this try all...
 // (true || 'hello') -> true value print
 
 //BITWISE OPT
+//AND(&), OR(||), NOT(~), XOR TRUTH TABLE
+console.log(~(0)); // o/p -> -1
+
+// << , >> :-
+console.log(10>>1); // 10 is divided by 2 ki power 1 -> 5
+console.log(10<<1); // 10 is multiplied by 2 ki power 1 -> 20
+
+//CONDITIONALS :-
+//if - else
+age = 25;
+if(age>=18){
+    console.log("vote")
+}
+else{
+    console.log("cannot vote")
+}
+
+//if-else-if -> banta h try kro;
+
+//switch
+
+let num = 3;
+switch(num){
+    case 1: console.log("A");
+    break;
+    case 2: console.log("B");
+    break;
+    case 3: console.log("C");
+    break;
+    case 4: console.log("D");
+    break;
+    default: console.log("F");
+}
+
+
+//LOOPS & STRINGS :-
+//
+
