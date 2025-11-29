@@ -99,4 +99,23 @@ switch(num){
 //     }
 // }
 
+//while loop:-
+// let i = 1;
+// while(i<=10){
+//     console.log(i);
+//     i++;
+// }
+
+// let i = 1;
+// while(i<5){
+//     if(i==3){
+//         i++;
+//         continue;
+//     }
+//     else{
+//         console.log(i);
+//         i++;
+//     }
+// }
+
 
