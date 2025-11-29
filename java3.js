@@ -81,6 +81,22 @@ switch(num){
 }
 
 
-//LOOPS & STRINGS :-
-//
+//LOOPSsss :-
+//for loop:-
+// for(let i = 10; i>=1; i--){
+//     console.log(i);
+//     if(i==7){
+//         break;
+//     }
+// }
+
+// for(let i = 1; i<=10; i++){
+//     if(i==7){
+//       continue;
+//     }
+//     else{
+//         console.log(i);
+//     }
+// }
+
 
