@@ -77,3 +77,26 @@
 //  console.log(brr); //o/p -> [ 10, 40, 90 ]
 
 //reduce:-
+// let arr = [10,20,30,40];
+// let ans= arr.reduce((acc,curr) => {
+//     return acc+curr;
+// }, 0);
+// console.log(arr);
+// console.log(ans);
+
+//sort:-
+// let arrr = [9,5,6,7,8,4,2,2,5,7];
+// let anss = arrr.sort();
+// console.log(anss); // -> it sorts in ascending order
+
+// sort in descending order:---
+// let arrr = [9,5,6,7,8,4,2,2,5,7];
+// let anss = arrr.sort((a, b) => b - a);
+// console.log(anss); // -> this sorts in descending order...
+//if b-a is +ve then b comes before a...
+
+
+//to find index:-
+// let arr = [1,2,4,5,6]
+// console.log(arr.indexOf(5)); // o/p -> 3 
+
