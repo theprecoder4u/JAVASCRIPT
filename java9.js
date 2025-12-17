@@ -21,5 +21,3 @@ H();
 }
 console.log(height); 
 
-
-//
