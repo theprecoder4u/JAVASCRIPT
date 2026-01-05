@@ -7,4 +7,3 @@
 // textcontent -> all text content provide krta h
 // innertext -> text content provide krta h jo ki UI/browser pe dikh rha
 
-//
